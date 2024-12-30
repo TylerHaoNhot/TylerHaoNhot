@@ -4,14 +4,18 @@
 - 🔭 I’m currently interesting on
 - **Minecraft Server Development; Android Configuration; Technology stuff.**
 
+-
 - 🌱 I’m planning to learn
 - **Python; C++ ; HTML**
+-
 
 - 🤝 I’m looking for help with
 - **Minecraft Server Development.**
+-
 
 - 📫 How to reach me
 - **facebook.com/NhottCuti?mibextid=ZbWKwL**
+-
 
 - 👾 About me
 - **14 Years old**
