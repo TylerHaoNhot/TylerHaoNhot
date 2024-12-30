@@ -1,15 +1,23 @@
 <h1 align="center">About NhotCutii</h1>
 <h3 align="center">H3110 w0r1d,Im NhotCutii.</h3>
 
-- 🔭 I’m currently interesting on **Minecraft Server Development; Android Configuration; Technology stuff.**
+- 🔭 I’m currently interesting on
+- **Minecraft Server Development; Android Configuration; Technology stuff.**
 
-- 🌱 I’m planning to learn **Python; C++ ; HTML**
+- 🌱 I’m planning to learn
+- **Python; C++ ; HTML**
 
-- 🤝 I’m looking for help with **Minecraft Server Development.**
+- 🤝 I’m looking for help with
+- **Minecraft Server Development.**
 
-- 📫 How to reach me **facebook.com/NhottCuti?mibextid=ZbWKwL**
+- 📫 How to reach me
+- **facebook.com/NhottCuti?mibextid=ZbWKwL**
 
-- 👾 About me [14 years old](14 years old)
+- 👾 About me
+- **14 Years old**
+- **He/Him**
+- **Vietnamese**
+- **Had Relationship with: <a href="https://www.facebook.com/profile.php?id=100083201859482&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Miyuu Kawaii" height="20" width="30" /></a>
 
 - ⚡ Fun fact **I'm ugly and shy:3**
 
